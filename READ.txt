@@ -1,0 +1,11 @@
+
+
+javac -d out Main.java  //compile and place class files in "out" folder
+java -cp out Main      //run compiled class in "out" folder 
+
+//this helps us to delete all class files at once
+
+
+==============================TOP CONTRIBUTORS=========================
+
+Name: SAJID HASAN MAHIR   ID: (22-49485-3)

@@ -1,0 +1,54 @@
+Name: abir
+Email: abir
+Password: abir
+Gender: Male
+Date of birth: 1/JAN/1970
+
+Name: sajid mahir
+Email: mahir@gmail.com
+Password: mahir
+Gender: Male
+Date of birth: 23/OCT/2003
+
+Name: Doraemon
+Email: dora@gmai.com
+Password: 12345
+Gender: Other
+Date of birth: 31/FEB/1971
+
+Name: Sajid Hasan Mahir
+Email: sajidhasanmahir2003@gmail.com
+Password: 12345
+Gender: Male
+Date of birth: 23/OCT/2003
+
+Name: Nobita
+Email: nobita@
+Password: 1234
+Gender: Male
+Date of birth: 3/FEB/1971
+
+Name: Shizuka
+Email: shizuka@gmail.com
+Password: shizuka1
+Gender: Female
+Date of birth: 14/FEB/2023
+
+Name: Jion
+Email: jion@gmail.com
+Password: jion1
+Gender: Male
+Date of birth: 15/DEC/1975
+
+Name: monkey
+Email: monkey
+Password: monkey
+Gender: Male
+Date of birth: 1/JAN/1970
+
+Name: horse
+Email: horse
+Password: horse
+Gender: Male
+Date of birth: 1/JAN/1970
+

@@ -1,0 +1,24 @@
+Animal
+Action
+Saturday 7 PM
+25
+500
+
+Dunki
+Thriller
+Sunday 5 PM
+28
+600
+
+Hera Pheri
+Comedy
+Monday 7 PM
+30
+500
+
+3 Idiots
+Funny
+Tuesday 5 PM
+28
+600
+
